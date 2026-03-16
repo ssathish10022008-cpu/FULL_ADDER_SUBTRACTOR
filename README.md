@@ -45,8 +45,8 @@ Write the detailed procedure here
 **Program:**
 ```
 Program to design a full adder and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
-Developed by: LINCE GIYO L
-RegisterNumber: 212225100023
+Developed by: SATHISH S
+RegisterNumber: 212225040390
 ```
 **Full Adder**
 
